@@ -1,4 +1,4 @@
-###Update
+### Update
 The dashboard stopped working after a package update in Dash. This should serve as a warning to always create a virtual environment for your Python projects.
 
 ### covid-dashboard
